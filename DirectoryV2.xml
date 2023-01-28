@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <trees>
+     <tree path="/gulimall-ware" title="商品模块"/>
+     <tree path="/gulimall-product" title="产品模块"/>
+     <tree path="/gulimall-order" title="订单模块"/>
+     <tree path="/gulimall-member" title="会员模块"/>
+     <tree path="/gulimall-coupon" title="优惠卷模块"/>
+ </trees>
